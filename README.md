@@ -10,7 +10,7 @@ Sales Analysis focusing on using Excel (Power Query, Power Chart, DAX, Data Visu
 - **Dashboard Creation** by Creating chart using PivotChart, Adding Slicers and Timeline for interactivity
 
 ## Overview
-<img width="1007" height="581" alt="image" src="https://github.com/user-attachments/assets/e7db56a5-7f37-491b-a414-af642eea2dd1" />
+<img width="1010" height="576" alt="image" src="https://github.com/user-attachments/assets/c1dcb1bb-0dd7-4b81-ad7f-52ce94c9700f" />
 <a href= "https://1drv.ms/x/c/795a71a996c14c0c/ETCT_rcMT5pDqDdng6jNG7cBvlRytOlng6sMSuCZI7VXrQ?e=xubYeo&nav=MTVfezEzRjU4RTBCLTQzREYtNDY4NS05NkNBLTlCMDJBN0Q2MDJENH0" >Excel File</a>
 
 Through this Interactive Dashboard , Audience can understand:
